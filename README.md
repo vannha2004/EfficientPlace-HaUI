@@ -23,3 +23,22 @@ If you find this code useful, please consider citing the following paper.
     url={https://openreview.net/forum?id=AJGwSx0RUV}
 }
 ````
+
+Hyperparameters setting:
+````
+num of update epochs: 10
+update frontiers freq: 2
+update frontiers begin: 200
+num of episodes: 5
+density weight in (phase2): 0
+number of iterations (phase2): 1000
+density weight in (phase3)
+````
+
+Dataset setting: ISPD2005 benchmark (training from scratch)
+````
+Adaptec group: bao gồm adaptec1, adaptec2, adaptec3, adaptec4.
+Bigblue group: bao gồm bigblue1, bigblue2, bigblue3, bigblue4.
+
+Note: Bigblue2 và bigblue4 have total macros too big, Authors setted up by only use 256 and 1024 macro to for placement, to justify for comparing balance
+````
