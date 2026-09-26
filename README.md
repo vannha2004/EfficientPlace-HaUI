@@ -42,3 +42,7 @@ Bigblue group: bao gồm bigblue1, bigblue2, bigblue3, bigblue4.
 
 Note: Bigblue2 và bigblue4 have total macros too big, Authors setted up by only use 256 and 1024 macro to for placement, to justify for comparing balance
 ````
+
+
+DRL Checkpoint could be found in this url: https://drive.google.com/drive/folders/1uUzJk4j_a0nuAfciroKjserOduwTV1tG?usp=drive_link
+Contact me if there was some problem about searching checkpoint: nhatranvan204@gmail.com
